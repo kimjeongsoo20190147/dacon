@@ -12,24 +12,24 @@
 
 사용된 주요 라이브러리 및 기술
 
-자연어 처리(NLP):
-
+자연어 처리(NLP)
+---
 형태소 분석기(Mecab)
 
 Word2Vec (gensim)
 
 불용어(stop words) 제거
 
-데이터 전처리:
-
+데이터 전처리
+---
 Label Encoding (sklearn)
 
 토큰화 및 키워드 결합
 
 ADASYN을 이용한 클래스 불균형 해소
 
-머신러닝 모델:
-
+머신러닝 모델
+---
 Random Forest Classifier
 
 XGBoost Classifier
